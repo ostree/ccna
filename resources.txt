@@ -3,3 +3,6 @@ Routerlabs:
 
 GNS3:
     http://www.gns3.com/
+
+How to study for CCNA FREE:
+    https://learningnetwork.cisco.com/thread/15662
