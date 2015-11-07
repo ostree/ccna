@@ -6,3 +6,7 @@ GNS3:
 
 How to study for CCNA FREE:
     https://learningnetwork.cisco.com/thread/15662
+
+Cisco CCNA (200-120): The Complete Course (GNS3):
+    http://academy.gns3.com/courses/the-complete-ccna-200-120-course
+    $19
