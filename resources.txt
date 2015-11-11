@@ -10,3 +10,6 @@ How to study for CCNA FREE:
 Cisco CCNA (200-120): The Complete Course (GNS3):
     http://academy.gns3.com/courses/the-complete-ccna-200-120-course
     $19
+
+Wendell Odom's Cert Skills site for CCNA
+    http://blog.certskills.com/ccna/
