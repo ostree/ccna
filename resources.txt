@@ -16,3 +16,5 @@ Wendell Odom's Cert Skills site for CCNA
 
 Subnetting Practice:
     http://subnettingpractice.com/
+    http://www.nybi.org/subnet-1.php
+    https://www.lammle.com/ip-subnet-practice-page/
