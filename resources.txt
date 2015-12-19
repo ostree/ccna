@@ -27,3 +27,6 @@ Looks limited but might be worthwhile:
 
 Free exam (90 min):
     http://www.freeccnaworkbook.com/workbooks/ccna/ccna-practice-exam
+
+Free Cisco CCNA/CCENT Practice Exams:
+    http://www.learncisco.net/cisco-practice-tests.html
