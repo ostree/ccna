@@ -24,3 +24,6 @@ CCNA Info PacketLife.net:
 
 Looks limited but might be worthwhile:
     http://www.ccnapractice.com
+
+Free exam (90 min):
+    http://www.freeccnaworkbook.com/workbooks/ccna/ccna-practice-exam
