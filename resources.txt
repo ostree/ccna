@@ -30,3 +30,6 @@ Free exam (90 min):
 
 Free Cisco CCNA/CCENT Practice Exams:
     http://www.learncisco.net/cisco-practice-tests.html
+    
+Cisco Tutorial Exam:
+    http://www.cisco.com/c/en/us/training-events/training-certifications/exam-tutorial.html
