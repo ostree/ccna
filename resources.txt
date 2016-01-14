@@ -33,3 +33,6 @@ Free Cisco CCNA/CCENT Practice Exams:
     
 Cisco Tutorial Exam:
     http://www.cisco.com/c/en/us/training-events/training-certifications/exam-tutorial.html
+
+Hardware bundles/kits:
+    https://www.certificationkits.com/
