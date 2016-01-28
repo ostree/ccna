@@ -36,3 +36,6 @@ Cisco Tutorial Exam:
 
 Hardware bundles/kits:
     https://www.certificationkits.com/
+
+NetSim Labs:
+    http://routersimulator.certexams.com/network-simulator-labs/index.html
