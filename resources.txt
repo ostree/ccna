@@ -39,3 +39,6 @@ Hardware bundles/kits:
 
 NetSim Labs:
     http://routersimulator.certexams.com/network-simulator-labs/index.html
+
+PDFs of older (642-822 exam) CNA textbook:
+    http://files.bluecrow.net/docs/CCNA%20PDFs/
